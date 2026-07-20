@@ -14,3 +14,11 @@ Este programa funciona como una herramienta interactiva para el cálculo de impu
 # EVIDENCIAS DEL FUNCIONAMIENTO:
 
 A continuación, se presentan las capturas de pantalla que demuestran el flujo del programa:
+
+| Operación | Captura de Pantalla |
+| :--- | :--- |
+| **Ingreso de sueldo** | ![Inicio](ESCENARIOS/Foto2.jpeg) |
+| **Cálculo de AFP y SFS** | ![AFP/SFS](ESCENARIOS/Foto3.jpeg) |
+| **Cálculo de sueldo neto** | ![Sueldo Neto](ESCENARIOS/Foto4.jpeg) |
+| **Cálculo de ISR** | ![ISR](ESCENARIOS/Foto1.jpeg) |
+| **Resumen de nómina** | ![Resumen](ESCENARIOS/Foto5.jpeg) |
